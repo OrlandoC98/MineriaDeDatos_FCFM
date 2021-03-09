@@ -8,6 +8,6 @@
 * [Primera entrega del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb)
 ## Fase II
 * Técnica del equipo: K-Medias
-  * [Presentación](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentacion_K-Medias_Equipo6.pdf)
+  * [Presentación](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
   * [Ejemplo de la presentación](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Kmedias.ipynb)
-  * [Mini examen]   
+  * [Mini examen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf)
