@@ -11,3 +11,4 @@
   * [Presentación](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
   * [Ejemplo de la presentación](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Kmedias.ipynb)
   * [Mini examen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf)
+* [Mapa Mental II](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/MapaMental_2_1728247.pdf)
