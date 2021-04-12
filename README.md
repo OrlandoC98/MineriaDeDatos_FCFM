@@ -12,5 +12,5 @@
   * [Ejemplo de la presentación](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Kmedias.ipynb)
   * [Mini examen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf)
 * [Mapa Mental II](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/MapaMental_2_1728247.pdf)
-* [Práctica de Visualización]()
+* [Práctica de Visualización](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
 * [Segundo avance del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
