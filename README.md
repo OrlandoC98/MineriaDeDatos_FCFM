@@ -14,3 +14,4 @@
 * [Mapa Mental II](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/MapaMental_2_1728247.pdf)
 * [Práctica de Visualización](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
 * [Segundo avance del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
+* [Segundo avance del PIA - Segunda Versión](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6_V2.ipynb)
