@@ -17,4 +17,4 @@
   * [Versión 1](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
   * [Versión 2 ](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6_V2.ipynb)
 ## Fase 3
- *[PIA Poster](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/PIA.pdf)
+ * [PIA Poster](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/PIA.pdf)
